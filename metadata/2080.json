@@ -1,0 +1,36 @@
+{
+    "dna": "0b79fc7f83a20225fa836cf0c6b598d1fc478f81e93a4c4b890f4878ce1c23ee",
+    "name": "#2080.gif",
+    "description": "Your description here",
+    "image": "https://raw.githubusercontent.com/ethercaskets/ethercasketsnft/main/images/2080.gif",
+    "imageName": "2080.gif",
+    "edition": 2080,
+    "date": 1708296514969,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "dark purple"
+        },
+        {
+            "trait_type": "box",
+            "value": "wood"
+        },
+        {
+            "trait_type": "locks",
+            "value": "iron lock"
+        },
+        {
+            "trait_type": "light",
+            "value": "black light"
+        },
+        {
+            "trait_type": "particles",
+            "value": "pink particles"
+        },
+        {
+            "trait_type": "border",
+            "value": "green border"
+        }
+    ],
+    "compiler": "Jalagar Animated Art Engine"
+}

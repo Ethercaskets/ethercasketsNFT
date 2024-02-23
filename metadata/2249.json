@@ -1,0 +1,36 @@
+{
+    "dna": "03182bafb2c0b4ba9309d4b41d75e9674d53a18f1315efba3bfa123c0d439a44",
+    "name": "#2249.gif",
+    "description": "Your description here",
+    "image": "https://raw.githubusercontent.com/ethercaskets/ethercasketsnft/main/images/2249.gif",
+    "imageName": "2249.gif",
+    "edition": 2249,
+    "date": 1708296742979,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "dark blue"
+        },
+        {
+            "trait_type": "box",
+            "value": "wood"
+        },
+        {
+            "trait_type": "locks",
+            "value": "no locks"
+        },
+        {
+            "trait_type": "light",
+            "value": "red light"
+        },
+        {
+            "trait_type": "particles",
+            "value": "yellow particles"
+        },
+        {
+            "trait_type": "border",
+            "value": "green border"
+        }
+    ],
+    "compiler": "Jalagar Animated Art Engine"
+}
