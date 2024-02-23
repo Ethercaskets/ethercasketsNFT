@@ -1,7 +1,7 @@
 {
     "dna": "653a034ecc71c0d93a73576eded9a6a77ca3acb9da38968db5063718201387c5",
-    "name": "#1337.gif",
-    "description": "Your description here",
+    "name": "Ethercasket 1337",
+    "description": "Ethercaskets offers a combination of fungible and non-fungible token functionalities with integrated Chainlink VRF",
     "image": "https://raw.githubusercontent.com/ethercaskets/ethercasketsnft/main/images/1337.gif",
     "imageName": "1337.gif",
     "edition": 1337,

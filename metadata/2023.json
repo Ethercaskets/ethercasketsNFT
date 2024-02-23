@@ -1,7 +1,7 @@
 {
     "dna": "0f0fa4bc0ac7c49985906518d441fae0ce2d9009e06a730ad6113598e6fb706a",
-    "name": "#2023.gif",
-    "description": "Your description here",
+    "name": "Ethercasket 2023",
+    "description": "Ethercaskets offers a combination of fungible and non-fungible token functionalities with integrated Chainlink VRF",
     "image": "https://raw.githubusercontent.com/ethercaskets/ethercasketsnft/main/images/2023.gif",
     "imageName": "2023.gif",
     "edition": 2023,

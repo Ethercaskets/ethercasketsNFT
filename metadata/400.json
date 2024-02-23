@@ -1,7 +1,7 @@
 {
     "dna": "1a3667e76363ac13182097101369da0611cfe25567949c52a9abaa13dbffac8d",
-    "name": "#400.gif",
-    "description": "Your description here",
+    "name": "Ethercasket 400",
+    "description": "Ethercaskets offers a combination of fungible and non-fungible token functionalities with integrated Chainlink VRF",
     "image": "https://raw.githubusercontent.com/ethercaskets/ethercasketsnft/main/images/400.gif",
     "imageName": "400.gif",
     "edition": 400,
